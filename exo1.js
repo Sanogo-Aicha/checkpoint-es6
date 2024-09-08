@@ -72,10 +72,12 @@ if(compte==conte){
 else if(compte!==conte) {
     alert(false)
 }
-    EXO10:
-    let array=1+"-"+9+"-"+9+"-"+9+"-"+3;
+    
+    
+let array=1+"-"+9+"-"+9+"-"+9+"-"+3;
 for (let index = 0; index < array.length; index++) {
-    alert(array[index]*array[index])
+    console.log(array[2]*array[4]);
+   
     
 }
 */
